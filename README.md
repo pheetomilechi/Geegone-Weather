@@ -10,7 +10,11 @@ Simple UI: Clean and minimal design for easy readability.
 To run this project locally, follow these simple steps.
 
 1. Clone the Repository
+<<<<<<< HEAD
 git clone [https://github.com/YourUsername/geegone-weather-app.git](https://github.com/pheetomilechi/geegone-weather-app.git)
+=======
+git clone [https://github.com/YourUsername/geegone-weather-app.git](https://github.com/YourUsername/geegone-weather-app.git)
+>>>>>>> a4ed7fd085d6d90e1587107b96fdb4c5d2d28598
 cd geegone-weather-app
 
 2. Get Your API Key
@@ -39,4 +43,8 @@ OpenWeatherMap API: Data source for all weather information.
 If you encounter an error like 400 Bad Request or Cannot set properties of null:
 
 Check the API Key: Ensure your OpenWeatherMap API key is correctly pasted into the apiKey variable and has been active for at least a few hours.
+<<<<<<< HEAD
 Verify Search Input: Make sure the search input element is correctly referenced in your JavaScript, as this often leads to the search query (q) being undefined.
+=======
+Verify Search Input: Make sure the search input element is correctly referenced in your JavaScript, as this often leads to the search query (q) being undefined.
+>>>>>>> a4ed7fd085d6d90e1587107b96fdb4c5d2d28598
